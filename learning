@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang ="en-US">
+    <head>
+        <meta charset ="utf-8">
+        <meta name ="viewport" content="width=device-width,initial-scale=1.0">
+        <title>SHOPPING WITH ISAIAH</title>
+        <meta name ="description" content="This is a platform where customers can view products,send messages to place orders,trends in stock, in nakumat supermarket">
+        <meta name="author" content="Isaiah Wambani Mutambo">
+    </head>
+    <body>
+        <header>
+            <p>Welcome to our platform that is customer friendly</p>
+            <p>You order we deliver</p>
+            <p>@isaiawambani company</p>
+            <p>call:0104871167</p>
+            <p>whatsapp:0742441528</p>
+        </header>
+        <main>
+
+        </main>
+        <footer>
+
+        </footer>
+    </body>
+</html>
